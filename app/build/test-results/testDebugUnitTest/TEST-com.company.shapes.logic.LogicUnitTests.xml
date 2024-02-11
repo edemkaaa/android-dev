@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.shapes.logic.LogicUnitTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-02-11T19:36:44" hostname="DESKTOP-5F6IR28" time="0.005">
+  <properties/>
+  <testcase name="testCircleArea" classname="com.company.shapes.logic.LogicUnitTests" time="0.003"/>
+  <testcase name="testRightTrianglePerimeter" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testRightTriangleArea" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testRectangleArea" classname="com.company.shapes.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testRectanglePerimeter" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testCircleCircumference" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testBoxSurfaceArea" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testSphereVolume" classname="com.company.shapes.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testSphereSurfaceArea" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <testcase name="testBoxVolume" classname="com.company.shapes.logic.LogicUnitTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

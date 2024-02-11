@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:slidingpanelayout:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2adb965bc38153e99b7dece261d6b06b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7de1421fc49c3576c583f5ab769499bc/transformed/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d927736bc0058085b19748f868306af4/transformed/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2c774da133f6df087f5fbfe3ec0a99a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96fb1ed0bf14ac04b3e746484bcc9c72/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c98a9bc0a455ab0200cce6feac99fa67/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93c727039c2c74ecaba4a69e6b45f348/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7cebb4bdfcaf1e51560d95745f4da672/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23cd89d0c4f6213b4dbb245dbd867735/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/99286e9264ccffbdcfeef6a898d405a9/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0d1c5c6ca1bcd9b48dbd540322103c10/slidingpanelayout-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9b32ff1a9dd93ba77f13e9c3858cee2/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9b32ff1a9dd93ba77f13e9c3858cee2/transformed/slidingpanelayout-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f9b32ff1a9dd93ba77f13e9c3858cee2/transformed/slidingpanelayout-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

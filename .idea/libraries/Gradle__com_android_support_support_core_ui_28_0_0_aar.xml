@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4958608490c3493c773fc82e9184e918/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fa1dd060519dcff5a292ae48631d531/transformed/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/367705807d956c8f991d1cc5a2067adf/transformed/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eddf98253949cdf9124c4527b475fff2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34431f6c006c6c50f439a47a06de62f7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/240ad4e7c0a4c0f0ac07ba22afac43c2/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4befd111260781b0887d9350daa1408f/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e1de021ab163aa5f9870b47239f7056e/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0530ad6a7ef2a86bb166210b8bbd83d7/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebdaba724d630547519146b185ca3ca2/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e2be69417a5434409aff2e241559cd2/support-core-ui-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d16f84717bbcd63d79df2f5c5173e29b/transformed/support-core-ui-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d16f84717bbcd63d79df2f5c5173e29b/transformed/support-core-ui-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d16f84717bbcd63d79df2f5c5173e29b/transformed/support-core-ui-28.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

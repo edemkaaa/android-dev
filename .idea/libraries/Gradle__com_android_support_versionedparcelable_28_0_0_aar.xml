@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:versionedparcelable:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/db6f50f9ef45daf6ddde2aab31b94743/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c1c32a41e2100d254b57aa42811cf8f7/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a2542dba5ced5562e5d5b9a8b3ada4b/transformed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dbe7bc2a90e896a434cec630a64fd94/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16cf593eb478536e13f16877ce002df9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b93ddaf99704c9896c23344bb8a6cc5b/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c974b53ff623607867e85f86170dbc65/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ecf2f44f9e9e4737b611930c52e03e77/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9021044956baeb6a767293e6ff4318ed/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5b0bdb1141ca8e0033dd5a0f32776df1/versionedparcelable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2c8daf115cfeeeebdc4e90a34886e881/versionedparcelable-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4104d3d95798e2d58f9a741e625e0ef3/transformed/versionedparcelable-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4104d3d95798e2d58f9a741e625e0ef3/transformed/versionedparcelable-28.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4104d3d95798e2d58f9a741e625e0ef3/transformed/versionedparcelable-28.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

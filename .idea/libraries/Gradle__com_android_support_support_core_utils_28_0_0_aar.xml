@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5f16aac1ca7b5cf175d723f5c49d8444/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/598d0ef8dd53303c267d659ac78d284b/transformed/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b552c58598e8e574d2279826ecde10b/transformed/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c94f73b4393aa4193ddaae237bde47be/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa5ea711ba847676e5a90b8ea8bbdb3b/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/13f115cc5d5138e9ed6d7046dab5d030/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b71e3287f1352736da0fec142f5211bc/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/45d9eaecaa82472425d8699a0cb112bb/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bff2c34b52b9be73a5b5d2ccf5f15f2f/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4c6af1ae4345cab0a622f08a7523356/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a132f49195b33e6b679761c7a033334d/support-core-utils-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1379c1046477a5c15ec0ef22c2bc6edc/transformed/support-core-utils-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1379c1046477a5c15ec0ef22c2bc6edc/transformed/support-core-utils-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1379c1046477a5c15ec0ef22c2bc6edc/transformed/support-core-utils-28.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

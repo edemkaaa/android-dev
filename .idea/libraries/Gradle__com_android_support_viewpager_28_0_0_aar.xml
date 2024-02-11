@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:viewpager:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca7c9c0679e052884a7c53f032101229/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be8591c9e2c0de74856aad993f3103d9/transformed/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ddb06fe5d65fb0cf91ba9d011fb47c68/transformed/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9f982a383dd77d6bf5a08c5213a57aa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dbe35ebda62747dc0eb2fe391195bf7e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4660acd0807cc71ba66bee2bd6cbbbe5/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79c2c073fb018aa76bf35cb91e185267/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4ff8ee041a47f6c0edb0c7da5c0fc990/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aed67c384f927cd85f88cf43f23fcb8f/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89face3daa86ec6e301af2545a00e819/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03c282f76fad1e5d11a5e46adeaecf59/viewpager-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/78456a1683a15eb7ddf7afbbb5259f1e/transformed/viewpager-28.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/78456a1683a15eb7ddf7afbbb5259f1e/transformed/viewpager-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/78456a1683a15eb7ddf7afbbb5259f1e/transformed/viewpager-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

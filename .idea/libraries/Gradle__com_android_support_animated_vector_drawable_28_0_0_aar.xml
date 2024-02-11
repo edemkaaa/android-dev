@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:animated-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/08e842ff00d68ff8b70f406b63bc4cd9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/212e0d8bce4c414712978956ba219c02/transformed/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b75c6ec88cdf05e8adec63c7000dff5/transformed/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/700f947d3c010a703bcbf43574d23866/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04c1825a2b57a534da56226f9ee73999/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c82b71cc23f1f749201c229f1e0919f8/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19441647dde82811e0f8850f322a3735/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e66b78da32f865e4cf2fd845c292fb3/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df03fa65453af6b89ebdf4867466b8d4/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8652eecaec1541e3b83ea201124b443/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e9624393a49dd94b2ca40a9ffdf35a3e/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2d37d9afdbeef6daee60901c321b07d4/transformed/animated-vector-drawable-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2d37d9afdbeef6daee60901c321b07d4/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2d37d9afdbeef6daee60901c321b07d4/transformed/animated-vector-drawable-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

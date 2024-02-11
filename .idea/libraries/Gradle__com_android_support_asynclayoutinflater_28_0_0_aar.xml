@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5d1f8a56bc164e4cf864fd4960b887bc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/822b813e9d1f82b534a30c3d5ae67d8b/transformed/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/10c69d590671e550b5cb8e8f12479e04/transformed/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dad4e8b78c66c6e64d56f7a0609bd89/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/544d17a00ca3662e906595b7eeda6e51/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2a5a2145c109898fc28f4778cc59fa2/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3eeba095a054eadfbf9f84a901c648d9/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0d5a1fd167346d256c566883bd67116/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97d8120287e9e703a981b9bea22550f0/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0aa855178a708528b0b89a033e11975/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7288d2d6d90f2c01f96d2e994c124206/asynclayoutinflater-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fb17ac5f6a566dfc2e5d32e2b067d176/transformed/asynclayoutinflater-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fb17ac5f6a566dfc2e5d32e2b067d176/transformed/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fb17ac5f6a566dfc2e5d32e2b067d176/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

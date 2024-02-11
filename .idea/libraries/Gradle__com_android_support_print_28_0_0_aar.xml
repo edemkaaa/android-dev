@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:print:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af2984cb918d30956e7ac4a69a998d4d/transformed/print-28.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b30766fac271b40581c119f21cf03675/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f85e9700ba1c34360926e35a4a94efe6/transformed/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f56e853bc7557a483df42e1271b965e1/transformed/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8bb36f67232681f75531253df9f71481/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9fd904f01ba34efc06947886988d91fc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/441dd746fc5507909e127eaa50801847/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/326b07dc58f3196235573cd7c3eaefad/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7b6c90f9a55f1f49a5be78021b4ab98/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d9887665f219e81bb67eece4129f644/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c66927090c50d8cae8d532a1f537c39/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5adae96c5ac7f4b2080edbd6fb7d9552/print-28.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af2984cb918d30956e7ac4a69a998d4d/transformed/print-28.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af2984cb918d30956e7ac4a69a998d4d/transformed/print-28.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af2984cb918d30956e7ac4a69a998d4d/transformed/print-28.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
