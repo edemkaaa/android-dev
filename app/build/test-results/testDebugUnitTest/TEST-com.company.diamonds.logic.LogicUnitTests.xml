@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.diamonds.logic.LogicUnitTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-02-13T12:03:45" hostname="DESKTOP-5F6IR28" time="0.034">
+  <properties/>
+  <testcase name="testDiamond1" classname="com.company.diamonds.logic.LogicUnitTests" time="0.012"/>
+  <testcase name="testDiamond2" classname="com.company.diamonds.logic.LogicUnitTests" time="0.003"/>
+  <testcase name="testDiamond3" classname="com.company.diamonds.logic.LogicUnitTests" time="0.001"/>
+  <testcase name="testDiamond4" classname="com.company.diamonds.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="testDiamond5" classname="com.company.diamonds.logic.LogicUnitTests" time="0.003"/>
+  <testcase name="testDiamond6" classname="com.company.diamonds.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="testDiamond7" classname="com.company.diamonds.logic.LogicUnitTests" time="0.002"/>
+  <testcase name="testDiamond8" classname="com.company.diamonds.logic.LogicUnitTests" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
